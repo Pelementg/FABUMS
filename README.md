@@ -1,4 +1,4 @@
-# FABUMS
+# FABUMS - Mindastry
 Does programming in Mindastry seem too complicated? Tired of managing each unit individually? Do you want the waves to destroy themselves? Your decision:
 FABUMS - Fully Automatic Base and Unit Management System.
 
